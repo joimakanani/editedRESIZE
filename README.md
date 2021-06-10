@@ -1,0 +1,2 @@
+# editedRESIZE
+Resize twitch emotes
